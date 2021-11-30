@@ -1,0 +1,10 @@
+{
+    "go.autocompleteUnimportedPackages": true,
+    "go.toolsManagement.autoUpdate": true,
+    "go.useLanguageServer": true,
+    "gopls": {
+    
+        "completeUnimported": true,
+        "deepCompletion": true,
+    }
+}
